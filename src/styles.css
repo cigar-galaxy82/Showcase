@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+/* html{
+  background: url('./images/A.jpg')no-repeat center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Baloo 2', cursive;
+}
